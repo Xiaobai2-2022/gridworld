@@ -1,0 +1,10 @@
+name: gridworld
+dependencies:
+  - python=3.12
+  - numpy
+  - pytest
+  - matplotlib
+  - ipykernel
+channels:
+  - conda-forge
+  - defaults

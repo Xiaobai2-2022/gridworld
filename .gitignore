@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+# Conda environments
+.env/
+.venv/
+# PyCharm settings
+.idea/
+# VSCode settings
+.vscode/
+# Build artifacts
+build/
+dist/
+*.egg-info/
+# Jupyter checkpoints
+.ipynb_checkpoints/
